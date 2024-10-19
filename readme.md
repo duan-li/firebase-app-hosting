@@ -5,6 +5,8 @@
 
 ```
 npx create-next-app@latest
+
+# npm install # if clone project from gitrepo
 npm run build
 npm run start
 ```
